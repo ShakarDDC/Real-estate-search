@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Project-5_Miracle/1.0.0": {
+        "runtime": {
+          "Project-5_Miracle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Project-5_Miracle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

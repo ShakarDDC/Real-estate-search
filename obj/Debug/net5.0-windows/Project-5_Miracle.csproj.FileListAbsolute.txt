@@ -1,0 +1,88 @@
+C:\Users\yerkk\source\repos\Project-5_Miracle\Project-5_Miracle\bin\Debug\net5.0-windows\Project-5_Miracle.exe
+C:\Users\yerkk\source\repos\Project-5_Miracle\Project-5_Miracle\bin\Debug\net5.0-windows\Project-5_Miracle.deps.json
+C:\Users\yerkk\source\repos\Project-5_Miracle\Project-5_Miracle\bin\Debug\net5.0-windows\Project-5_Miracle.runtimeconfig.json
+C:\Users\yerkk\source\repos\Project-5_Miracle\Project-5_Miracle\bin\Debug\net5.0-windows\Project-5_Miracle.runtimeconfig.dev.json
+C:\Users\yerkk\source\repos\Project-5_Miracle\Project-5_Miracle\bin\Debug\net5.0-windows\Project-5_Miracle.dll
+C:\Users\yerkk\source\repos\Project-5_Miracle\Project-5_Miracle\bin\Debug\net5.0-windows\ref\Project-5_Miracle.dll
+C:\Users\yerkk\source\repos\Project-5_Miracle\Project-5_Miracle\bin\Debug\net5.0-windows\Project-5_Miracle.pdb
+C:\Users\yerkk\source\repos\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project-5_Miracle.csprojAssemblyReference.cache
+C:\Users\yerkk\source\repos\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project_5_Miracle.Form1.resources
+C:\Users\yerkk\source\repos\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project-5_Miracle.csproj.GenerateResource.cache
+C:\Users\yerkk\source\repos\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project-5_Miracle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yerkk\source\repos\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project-5_Miracle.AssemblyInfoInputs.cache
+C:\Users\yerkk\source\repos\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project-5_Miracle.AssemblyInfo.cs
+C:\Users\yerkk\source\repos\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project-5_Miracle.csproj.CoreCompileInputs.cache
+C:\Users\yerkk\source\repos\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project-5_Miracle.dll
+C:\Users\yerkk\source\repos\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\ref\Project-5_Miracle.dll
+C:\Users\yerkk\source\repos\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project-5_Miracle.pdb
+C:\Users\yerkk\source\repos\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project-5_Miracle.genruntimeconfig.cache
+C:\Users\yerkk\source\repos\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project_5_Miracle.AddProperty.resources
+C:\Users\yerkk\source\repos\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project_5_Miracle.Properties.Resources.resources
+C:\Users\yerkk\source\repos\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project_5_Miracle.searchProperty.resources
+C:\Users\yerkk\source\repos\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project_5_Miracle.showAllProperty.resources
+C:\Users\Shakar\Downloads\Compressed\Project-5_Miracle\Project-5_Miracle\bin\Debug\net5.0-windows\Project-5_Miracle.exe
+C:\Users\Shakar\Downloads\Compressed\Project-5_Miracle\Project-5_Miracle\bin\Debug\net5.0-windows\Project-5_Miracle.deps.json
+C:\Users\Shakar\Downloads\Compressed\Project-5_Miracle\Project-5_Miracle\bin\Debug\net5.0-windows\Project-5_Miracle.runtimeconfig.json
+C:\Users\Shakar\Downloads\Compressed\Project-5_Miracle\Project-5_Miracle\bin\Debug\net5.0-windows\Project-5_Miracle.runtimeconfig.dev.json
+C:\Users\Shakar\Downloads\Compressed\Project-5_Miracle\Project-5_Miracle\bin\Debug\net5.0-windows\Project-5_Miracle.dll
+C:\Users\Shakar\Downloads\Compressed\Project-5_Miracle\Project-5_Miracle\bin\Debug\net5.0-windows\ref\Project-5_Miracle.dll
+C:\Users\Shakar\Downloads\Compressed\Project-5_Miracle\Project-5_Miracle\bin\Debug\net5.0-windows\Project-5_Miracle.pdb
+C:\Users\Shakar\Downloads\Compressed\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project-5_Miracle.csprojAssemblyReference.cache
+C:\Users\Shakar\Downloads\Compressed\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project_5_Miracle.AddProperty.resources
+C:\Users\Shakar\Downloads\Compressed\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project_5_Miracle.Form1.resources
+C:\Users\Shakar\Downloads\Compressed\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project_5_Miracle.Properties.Resources.resources
+C:\Users\Shakar\Downloads\Compressed\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project_5_Miracle.searchProperty.resources
+C:\Users\Shakar\Downloads\Compressed\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project_5_Miracle.showAllProperty.resources
+C:\Users\Shakar\Downloads\Compressed\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project-5_Miracle.csproj.GenerateResource.cache
+C:\Users\Shakar\Downloads\Compressed\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project-5_Miracle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shakar\Downloads\Compressed\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project-5_Miracle.AssemblyInfoInputs.cache
+C:\Users\Shakar\Downloads\Compressed\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project-5_Miracle.AssemblyInfo.cs
+C:\Users\Shakar\Downloads\Compressed\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project-5_Miracle.csproj.CoreCompileInputs.cache
+C:\Users\Shakar\Downloads\Compressed\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project-5_Miracle.dll
+C:\Users\Shakar\Downloads\Compressed\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\ref\Project-5_Miracle.dll
+C:\Users\Shakar\Downloads\Compressed\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project-5_Miracle.pdb
+C:\Users\Shakar\Downloads\Compressed\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project-5_Miracle.genruntimeconfig.cache
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\Project-5_Miracle\Project-5_Miracle\bin\Debug\net5.0-windows\Project-5_Miracle.exe
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\Project-5_Miracle\Project-5_Miracle\bin\Debug\net5.0-windows\Project-5_Miracle.deps.json
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\Project-5_Miracle\Project-5_Miracle\bin\Debug\net5.0-windows\Project-5_Miracle.runtimeconfig.json
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\Project-5_Miracle\Project-5_Miracle\bin\Debug\net5.0-windows\Project-5_Miracle.runtimeconfig.dev.json
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\Project-5_Miracle\Project-5_Miracle\bin\Debug\net5.0-windows\Project-5_Miracle.dll
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\Project-5_Miracle\Project-5_Miracle\bin\Debug\net5.0-windows\Project-5_Miracle.pdb
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project-5_Miracle.csproj.AssemblyReference.cache
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project_5_Miracle.AddProperty.resources
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project_5_Miracle.Form1.resources
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project_5_Miracle.Properties.Resources.resources
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project_5_Miracle.searchProperty.resources
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project_5_Miracle.showAllProperty.resources
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project-5_Miracle.csproj.GenerateResource.cache
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project-5_Miracle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project-5_Miracle.AssemblyInfoInputs.cache
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project-5_Miracle.AssemblyInfo.cs
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project-5_Miracle.csproj.CoreCompileInputs.cache
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project-5_Miracle.dll
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\refint\Project-5_Miracle.dll
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project-5_Miracle.pdb
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project-5_Miracle.genruntimeconfig.cache
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\ref\Project-5_Miracle.dll
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\Project-5_Miracle\Project-5_Miracle\bin\Debug\net5.0-windows\Project-5_Miracle.exe
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\Project-5_Miracle\Project-5_Miracle\bin\Debug\net5.0-windows\Project-5_Miracle.deps.json
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\Project-5_Miracle\Project-5_Miracle\bin\Debug\net5.0-windows\Project-5_Miracle.runtimeconfig.json
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\Project-5_Miracle\Project-5_Miracle\bin\Debug\net5.0-windows\Project-5_Miracle.runtimeconfig.dev.json
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\Project-5_Miracle\Project-5_Miracle\bin\Debug\net5.0-windows\Project-5_Miracle.dll
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\Project-5_Miracle\Project-5_Miracle\bin\Debug\net5.0-windows\Project-5_Miracle.pdb
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project-5_Miracle.csproj.AssemblyReference.cache
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project_5_Miracle.AddProperty.resources
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project_5_Miracle.Form1.resources
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project_5_Miracle.Properties.Resources.resources
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project_5_Miracle.searchProperty.resources
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project_5_Miracle.showAllProperty.resources
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project-5_Miracle.csproj.GenerateResource.cache
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project-5_Miracle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project-5_Miracle.AssemblyInfoInputs.cache
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project-5_Miracle.AssemblyInfo.cs
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project-5_Miracle.csproj.CoreCompileInputs.cache
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project-5_Miracle.dll
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\refint\Project-5_Miracle.dll
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project-5_Miracle.pdb
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\Project-5_Miracle.genruntimeconfig.cache
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\Project-5_Miracle\Project-5_Miracle\obj\Debug\net5.0-windows\ref\Project-5_Miracle.dll

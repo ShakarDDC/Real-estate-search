@@ -1,0 +1,90 @@
+﻿id: Y-7585|
+Rooms: 2|
+Size: 45|
+Bathrooms: 1|
+Floor: 5|
+Contract type: rental|
+Age: 17|
+Price: 4500|
+Address: Warsaw, Poland|
+Options: Bath Tube,internet,Security desk,Elevator,|
+Owner Name: Yerkebulan|
+Owner Phone: 87770000001|
+Owner Surname: Zhaiylkan|
+Owner Email: 001@gmail.com|
+Owner Date of Birth: 16-05-1993|
+Owner Address: Almaty, Kazakhstan|
+File: |
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+id: P-9207|
+Rooms: 2|
+Size: 56|
+Bathrooms: 1|
+Floor: 3|
+Contract type: sell|
+Age: 23|
+Price: 450000|
+Address: Warsaw, Poland|
+Options: Hot/Cold water,internet,|
+Owner Name: Yerkebulan|
+Owner Phone: 874777474747|
+Owner Surname: Zhaiylkan|
+Owner Email: mail@gmail.com|
+Owner Date of Birth: 16-01-1994|
+Owner Address: Qyzylorda, Kazakhstan|
+File: img\P-9207_0.jpg,img\P-9207_1.jpg,|
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+id: X-179|
+Rooms: 5|
+Size: 67|
+Bathrooms: 2|
+Floor: 7|
+Contract type: office|
+Age: 56|
+Price: 12000|
+Address: London, England|
+Options: Hot/Cold water,internet,Security desk,Elevator,|
+Owner Name: John|
+Owner Phone: 87676784847|
+Owner Surname: Week|
+Owner Email: mail@gmail.com|
+Owner Date of Birth: 16-05-1989|
+Owner Address: Warsaw, Poland|
+File: img\X-179_0.jpg,img\X-179_1.jpg,|
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+id: K-4438|
+Rooms: 5|
+Size: 12|
+Bathrooms: 3|
+Floor: 9|
+Contract type: rental|
+Age: 19|
+Price: 78000|
+Address: Nur-Sultan, Kazakhstan|
+Options: Hot/Cold water,internet,Elevator,Pool,|
+Owner Name: Jandos|
+Owner Phone: 87676776858|
+Owner Surname: Akhmetov|
+Owner Email: test@tgest,com|
+Owner Date of Birth: 16-05-1990|
+Owner Address: Warsaw, Poland|
+File: img\K-4438_0.jpg,img\K-4438_1.jpg,|
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+id: G-736|
+Rooms: 7|
+Size: 120|
+Bathrooms: 3|
+Floor: 4|
+Contract type: rental|
+Age: 23|
+Price: 340000|
+Address: Warsaw, Poland|
+Options: Furnished,Hot/Cold water,Inductive Stew,with Owner,Bath Tube,Balcony,internet,Air Condition,Security desk,Elevator,Pool,Gym,|
+Owner Name: Rich|
+Owner Phone: 4899939200|
+Owner Surname: Bigman|
+Owner Email: usa@usa.com|
+Owner Date of Birth: 16-01-1980|
+Owner Address: New-York, USA|
+File: img\G-736_0.jpg,img\G-736_1.jpg,img\G-736_2.jpg,|
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
